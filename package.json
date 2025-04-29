@@ -1,0 +1,25 @@
+{
+  "name": "crm-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meitaloly/CRM-common.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Meitaloly/CRM-common/issues"
+  },
+  "homepage": "https://github.com/Meitaloly/CRM-common#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
