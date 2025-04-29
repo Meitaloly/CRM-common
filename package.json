@@ -1,6 +1,6 @@
 {
-  "name": "crm-common",
-  "version": "1.0.0",
+  "name": "@liniworldteam/crm-common",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
