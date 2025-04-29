@@ -4,7 +4,9 @@ export interface IUser {
     name: string;
     email: string;
     role: ERoles;
-    password?:string;
+    isActive: boolean;
+    password?: string;
     googleId?: string;
     avatarUrl?: string;
-}
+    clientId?: string; 
+  }
