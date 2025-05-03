@@ -1,6 +1,6 @@
 {
   "name": "@liniworldteam/crm-common",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/Meitaloly/CRM-common#readme",
   "devDependencies": {
     "typescript": "^5.8.3"
-  }
+  },
+  "dependencies": {}
 }
